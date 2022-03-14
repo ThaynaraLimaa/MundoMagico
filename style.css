@@ -79,7 +79,7 @@ main > h2 {
 
 footer {
     background-color: var(--cor2);
-    height: 1em;
+    height: auto; /* caso não funcionar voltar para 1em */
     text-align: center;
     padding: 0.3em;
 }
